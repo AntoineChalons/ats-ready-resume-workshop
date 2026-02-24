@@ -2,7 +2,7 @@
 
 resources for ATS-Friendly Resume Workshop
 
-[qr-code](/resources/qrcode-repo.png)
+![qr-code](/resources/qrcode-repo.png)
 
 ## Sources de templates DOCX ATS-friendly
 
