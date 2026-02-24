@@ -4,6 +4,17 @@ resources for ATS-Friendly Resume Workshop
 
 ![qr-code](/resources/qrcode-repo.png)
 
+## Sites gratuits pour tester votre CV
+
+- **[resumeats.io](https://resumeats.io)**
+   100% gratuit · Pas d'inscription · Analyse dans le navigateur
+
+- **[enhancv.com/resume-checker](https://enhancv.com/resources/resume-checker/)**
+   Gratuit · Score + recommandations détaillées
+
+- **[mployee.me/resumescan](https://www.mployee.me/resumescan)**
+   Gratuit · Analyse sur 40+ critères
+
 ## Sources de templates DOCX ATS-friendly
 
 ### Gratuits, sans inscription
