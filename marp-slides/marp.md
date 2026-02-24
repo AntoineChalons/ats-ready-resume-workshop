@@ -20,11 +20,11 @@ Comment créer un CV qui sera **lu** avant d'être lu
 
 | Étape | Durée |
 |---|---|
-| 🤖 Comprendre les ATS | 25 min |
-| 🧪 Tester son CV actuel | 15 min |
-| 🛠️ Créer un CV avec Typst | 30 min |
-| 🔁 Retester et comparer | 10 min |
-| ❓ Questions | 10 min |
+| 🤖 Comprendre les ATS     | xx min |
+| 🧪 Tester son CV actuel   | xx min |
+| 🛠️ Créer un CV avec Typst | xx min |
+| 🔁 Retester et comparer   | xx min |
+| ❓ Questions              | xx min |
 
 ---
 
@@ -39,8 +39,6 @@ Un logiciel utilisé par les recruteurs pour :
 - 📊 **Classer** les candidats par pertinence
 - 🚫 **Filtrer** ceux qui ne correspondent pas
 
-> Pensez-y comme un **robot gardien** : si votre CV ne lui plaît pas, le recruteur ne le verra **jamais**.
-
 ---
 
 ## 📈 Quelques chiffres clés
@@ -48,8 +46,6 @@ Un logiciel utilisé par les recruteurs pour :
 - **98%** des entreprises du Fortune 500 utilisent un ATS
 - **75%** des CV sont rejetés avant d'être vus par un humain
 - Un ATS met environ **6 secondes** à scanner un CV
-
-![bg right:35% 80%](https://img.icons8.com/fluency/240/robot.png)
 
 ---
 
@@ -75,7 +71,7 @@ L'ATS compare votre CV à l'offre d'emploi :
 - 📊 Attribue un **score de pertinence**
 
 ### Étape 3 — Classement
-Les candidats sont triés par score. Seuls les **meilleurs** arrivent sur le bureau du recruteur.
+Les candidats sont triés par score. Seuls les **meilleurs** arrivent devant recruteur.
 
 ---
 
@@ -121,7 +117,7 @@ Lisez l'offre d'emploi, surlignez les **compétences et outils** mentionnés, et
 
 # 🧪 Phase 1 : On teste !
 
-Testons ensemble votre CV actuel
+Testons ensemble votre CV
 
 ---
 
