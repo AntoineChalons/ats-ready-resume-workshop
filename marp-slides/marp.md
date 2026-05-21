@@ -9,7 +9,9 @@ backgroundImage: url('https://marp.app/assets/hero-background.svg')
 
 # CV & ATS : passer le premier filtre
 
-Comment créer un CV qui sera **lu** avant d'être lu
+Comment créer un CV qui sera **lu**
+
+https://github.com/AntoineChalons/ats-ready-resume-workshop
 
 ---
 
@@ -123,18 +125,18 @@ Testons ensemble votre CV
 
 ## 🧪 Tester son CV — Mode d'emploi
 
-### Rendez-vous sur un de ces sites gratuits :
+### Rendez-vous sur un de ces sites
 
-1. 🌐 **[resumeats.io](https://resumeats.io)**
-   100% gratuit · Pas d'inscription · Analyse dans le navigateur
-   
-2. 🌐 **[enhancv.com/resume-checker](https://enhancv.com/resources/resume-checker/)**
+1. 🌐 **[JobScan](https://app.jobscan.co/dashboard)**
+   Partiellement gratuit · Inscription · Analyse d'annonce
+
+2. 🌐 **[enhancv.com/](https://enhancv.com/)**
    Gratuit · Score + recommandations détaillées
 
 3. 🌐 **[mployee.me/resumescan](https://www.mployee.me/resumescan)**
    Gratuit · Analyse sur 40+ critères
 
-### 📌 Notez votre score ! On le comparera à la fin.
+### 📌 Notez votre score ! On le comparera à la fin
 
 ---
 
@@ -146,7 +148,7 @@ Testons ensemble votre CV
 - 🔑 **Mots-clés** — sont-ils suffisants ?
 - 🎨 **Mise en forme** — y a-t-il des éléments problématiques ?
 
-> Gardez ce score en tête, on va maintenant créer un CV optimisé ! 🚀
+> Notez ce score, on va maintenant créer un CV optimisé ! 🚀
 
 ---
 
